@@ -1,0 +1,49 @@
+.body{
+    margin:0px;
+}
+
+.barra{
+    height:50px;
+    background-color:darkred;
+}
+
+.imagenSlide{
+    max-height:850px;
+    width:100%;
+    height:auto;
+}
+
+.container{
+    margin-top:20px;
+}
+
+.mensaje{
+    margin-top:10px;
+    height:50px;
+    width:100%;
+    color:white;
+    background-color: crimson;
+    text-align: center;
+    vertical-align: center;
+    display: none;
+}
+
+.perfil{
+    width: 100%;
+    height:auto;
+    border: 1px solid black;
+    margin-bottom:20px;
+}
+
+
+#mensajeMovimientos{
+    margin-top:20px;
+    height:50px;
+    color:black;
+    font-size:20px;
+}
+
+#montoUsuario{
+    margin-top:20px;
+    
+}
